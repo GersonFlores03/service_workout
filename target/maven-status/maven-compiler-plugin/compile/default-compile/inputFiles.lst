@@ -1,3 +1,6 @@
+C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\categoria\Categoria.java
+C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\categoria\CategoriaControllers.java
+C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\categoria\CategoriaRepository.java
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\CorsApplication.java
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Detalle\RutinaDetalle.java
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Detalle\RutinaDetalleControllers.java
@@ -15,6 +18,9 @@ C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Personal\workoutControllers.java
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Personal\workoutRepository.java
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Personal\workoutServices.java
+C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Reporte\ControllersReporte.java
+C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Reporte\Reporte.java
+C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Reporte\ReporteRepository.java
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\RestServiceApplication.java
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Rutina\RutinaControllers.java
 C:\Users\USER\Desktop\Escritorio\workout_api\src\main\java\workout\rest_service\Rutina\RutinaRepository.java
