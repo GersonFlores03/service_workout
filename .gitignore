@@ -1,7 +1,8 @@
 HELP.md
-target/
+#target/
 
 src/main/resources/imagesproyect-firebase-adminsdk.json
+target/classes/imagesproyect-firebase-adminsdk.json
 
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
